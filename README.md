@@ -1,5 +1,4 @@
 Data Analyst Intern Assignment
-
 Overview
 
 This project analyzes user engagement, purchase funnel, and customer behavior using three datasets:
@@ -32,4 +31,4 @@ user_id corresponds to customer_id
 
 Only valid orders considered
 
-Duplicate records removed# data-analyst-intern-assignment
+Duplicate records removed
